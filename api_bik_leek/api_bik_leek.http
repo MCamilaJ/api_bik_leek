@@ -1,0 +1,6 @@
+@api_bik_leek_HostAddress = http://localhost:5152
+
+GET {{api_bik_leek_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
